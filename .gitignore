@@ -1,1 +1,16 @@
 target/
+*.class
+.classpath
+.project
+.settings/*
+.springBeans
+generated-sources/*
+bin/*
+logs/*
+src/main/webapp/content/*
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
